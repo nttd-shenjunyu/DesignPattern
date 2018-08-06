@@ -7,5 +7,6 @@ public class Test {
 		System.out.println(o.hashCode());
 		System.out.println(o2.hashCode());
 		System.out.println(o.equals(o));
+		System.out.println(o.equals(o2));
 	}
 }
